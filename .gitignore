@@ -3,3 +3,5 @@ npm-debug.log
 public/javascripts/main funcionando.js
 public/javascripts/main principal.js
 public/data/*copy.json
+public/data/coffee.json
+public/data/pizza.json

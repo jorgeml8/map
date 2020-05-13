@@ -1,0 +1,24 @@
+[
+	{
+		"shopname": "HOSPITAL AIR",
+		"location":{
+			"type": "Point",
+			"coordinates": [39.926947,-75.171025]
+		},
+		"details": "HOSPITAL AIR",
+		"website": "http://hospitalair.com.mx",
+		"icon": "\uf0f8",
+		"color": "#1E8E7D"
+	},
+	{
+		"shopname": "AMBULANCIA",
+		"location":{
+			"type": "Point",
+			"coordinates": [39.971241,-75.134246]
+		},
+		"details": "AMBULANCIA NO. ",
+		"website": "http://hospitalair.com.mx",
+		"icon": "\uf0f9",
+		"color": "#f47334"
+	}
+]
