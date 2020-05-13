@@ -1,13 +1,14 @@
 [
 	{
-		"shopname": "Menagerie Coffee",
+		
+		"shopname": "ME LA PELAS",
 		"location":{
 			"type": "Point",
 			"coordinates": [39.9496666,-75.1458754]
 		},
 		"details": "Great coffee, atmosphere, and staff.",
 		"website": "http://www.menageriecoffee.com/",
-		"icon": "heartbeat",
+		"icon": "\uf21e",
 		"color": "#B90C13"
 	},
 	{
@@ -18,7 +19,7 @@
 		},
 		"details": "Great for a coffee on the go.",
 		"website": "http://www.oldcitycoffee.com/",
-		"icon": "procedures",
+		"icon": "\uf487",
 		"color": "#346698"
 	},
 	{
@@ -29,7 +30,7 @@
 		},
 		"details": "Urban camper vibes.",
 		"website": "http://unitedbyblue.com/pages/flagship",
-		"icon": "lungs",
+		"icon": "\uf604",
 		"color": "#39A00F"
 	},
 	{
@@ -40,7 +41,7 @@
 		},
 		"details": "Good coffee. Tons of electrical outlets.",
 		"website": "http://www.elixrcoffee.com/",
-		"icon": "x-ray",
+		"icon": "\uf497",
 		"color": "#000"
 	},
 	{
@@ -51,7 +52,7 @@
 		},
 		"details": "Good coffee. Lots of light.",
 		"website": "http://www.yelp.com/biz/shot-tower-coffee-philadelphia-2",
-		"icon": "prescription-bottle",
+		"icon": "\uf485",
 		"color": "#ffde59"
 	},
 	{
@@ -62,7 +63,7 @@
 		},
 		"details": "Great place to get some work done.",
 		"website": "https://www.facebook.com/pages/Bennas-Cafe/316526051875056",
-		"icon": "brain",
+		"icon": "\uf604",
 		"color": "#26C2C3"
 	},
 	{
@@ -73,8 +74,8 @@
 		},
 		"details": "Hand poured coffee.",
 		"website": "http://www.ultimocoffee.com/",
-		"icon": "hospital",
-		"color": "#ffffff"
+		"icon": "\uf0f8",
+		"color": "#1E8E7D"
 	},
 	{
 		"shopname": "La Colombe Fishtown",
@@ -84,7 +85,7 @@
 		},
 		"details": "Iced coffee on draft.",
 		"website": "http://lacolombe.com/",
-		"icon": "ambulance",
+		"icon": "\uf0f9",
 		"color": "#f47334"
 	}
 ]

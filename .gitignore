@@ -1,4 +1,5 @@
 node_modules/
 npm-debug.log
 public/javascripts/main funcionando.js
-public/javascripts/main_2.js
+public/javascripts/main principal.js
+public/data/*copy.json

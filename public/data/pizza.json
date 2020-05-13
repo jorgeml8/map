@@ -7,7 +7,7 @@
 		},
 		"details": "Great pizza.",
 		"website": "http://www.yelp.com/biz/gianfranco-pizza-rustica-philadelphia",
-		"icon": "heartbeat",
+		"icon": "\uf21e",
 		"color": "#B90C13"
 	},
 	{
@@ -18,8 +18,8 @@
 		},
 		"details": "Pizza Museum with huge slices.",
 		"website": "http://www.pizzabrain.org/",
-		"icon": "heartbeat",
-		"color": "#B90C13"
+		"icon": "\uf487",
+		"color": "#346698"
 	},
 	{
 		"shopname": "Francoluigi's Pizzeria",
@@ -29,8 +29,8 @@
 		},
 		"details": "Huge pizzas.",
 		"website": "http://www.francoluigis.com/",
-		"icon": "heartbeat",
-		"color": "#B90C13"
+		"icon": "\uf604",
+		"color": "#39A00F"
 	},
 	{
 		"shopname": "Franco's Pizza",
@@ -40,8 +40,8 @@
 		},
 		"details": "Solid pizzas.",
 		"website": "http://www.francospizzaplace.com/",
-		"icon": "heartbeat",
-		"color": "#B90C13"
+		"icon": "\uf497",
+		"color": "#000"
 	},
 	{
 		"shopname": "Pizzeria Beddia",
@@ -51,8 +51,8 @@
 		},
 		"details": "Nationally recognized pizza shop. Get there early.",
 		"website": "https://pizzeriabeddia.wordpress.com/",
-		"icon": "heartbeat",
-		"color": "#B90C13"
+		"icon": "\uf485",
+		"color": "#ffde59"
 	}
 
 ]
